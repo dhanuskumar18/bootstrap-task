@@ -1,0 +1,6 @@
+.col-2,.col-9,.headcolor {
+    box-shadow: 0px 0px  15px lightgray;
+}
+a:hover {
+    cursor:pointer;
+}
